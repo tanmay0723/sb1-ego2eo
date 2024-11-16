@@ -21,16 +21,16 @@ export const popularDestinations = [
     description: 'Himalayan beauty and Buddhist culture'
   },
   {
-    id: 'udaipur',
-    name: 'Udaipur',
-    image: 'https://images.unsplash.com/photo-1598890777032-bde835ba27c2?auto=format&fit=crop&q=80&w=1000',
-    description: 'City of Lakes and Palaces'
+    id: 'darjeeling',
+    name: 'Darjeeling',
+    Image: 'https://cdn.pixabay.com/photo/2015/05/22/07/53/himalayas-778418_960_720.jpg',
+    description: 'Famous for its tea plantations and stunning views of the Himalayas',
   },
   {
-    id: 'manali',
-    name: 'Manali',
-    image: 'https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&q=80&w=1000',
-    description: 'Adventure sports and scenic beauty'
+    id: 'gangtok',
+    name: 'Gangtok',
+    image: 'https://i.pinimg.com/564x/99/c7/82/99c782f002b5e92761c9bd35b63eb598.jpg',
+    description: 'The capital of Sikkim, known for its monasteries and views of Kanchenjunga'
   }
 ];
 

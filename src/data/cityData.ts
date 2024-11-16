@@ -3,14 +3,14 @@ export const cityData = {
     id: 'goa',
     name: 'Goa',
     description: 'Beach paradise with vibrant nightlife',
-    coverImage: 'https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&q=80&w=1000',
+    coverImage: 'https://i.pinimg.com/564x/d5/a4/d5/d5a4d56e1476e3298a0085d6e3947433.jpg',
     bestTimeToVisit: 'November to March',
     howToReach: 'Dabolim Airport or Madgaon Railway Station',
     places: [
       {
         id: 'baga-beach',
         name: 'Baga Beach',
-        image: 'https://images.unsplash.com/photo-1517438121500-3e2cba0c1f29?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/09/d8/36/09d836cff4484550a75c6155888dbbba.jpg',
         description: 'Famous for water sports and nightlife',
         timings: '24 hours',
         history: 'Baga Beach derives its name from the Baga Creek. It emerged as a popular tourist destination in the 1960s when hippies discovered its pristine shores.',
@@ -20,7 +20,7 @@ export const cityData = {
       {
         id: 'fort-aguada',
         name: 'Fort Aguada',
-        image: 'https://images.unsplash.com/photo-1541411064572-26ef61f2c9c0?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/736x/af/a4/5a/afa45a7ff060ac8f9e7383916f75e820.jpg',
         description: '17th-century Portuguese fort',
         timings: '8:30 AM to 5:30 PM',
         entryFee: '₹50',
@@ -31,7 +31,7 @@ export const cityData = {
       {
         id: 'anjuna-beach',
         name: 'Anjuna Beach',
-        image: 'https://images.unsplash.com/photo-1517438121500-3e2cba0c1f29?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/41/88/46/41884604312499b0fc1c3314ad49858a.jpg',
         description: 'Known for its vibrant nightlife and flea markets',
         timings: '24 hours',
         howToReach: 'Accessible by taxi or local transport.',
@@ -40,7 +40,7 @@ export const cityData = {
       {
         id: 'chapora-fort',
         name: 'Chapora Fort',
-        image: 'https://images.unsplash.com/photo-1541411064572-26ef61f2c9c0?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/2e/4a/26/2e4a26cd9b591c0af4fe1895eb2db543.jpg',
         description: 'Famous for its scenic views and historical significance',
         timings: 'Open 24 hours',
         howToReach: 'Accessible by taxi or local transport.',
@@ -49,7 +49,7 @@ export const cityData = {
       {
         id: 'dudhsagar-waterfalls',
         name: 'Dudhsagar Waterfalls',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/52/96/ac/5296acae83b3c4377bbbbc8cd1e5d138.jpg',
         description: 'One of the tallest waterfalls in India, located in the Bhagwan Mahavir Wildlife Sanctuary',
         timings: 'Best visited from June to January',
         howToReach: 'Accessible via jeep safari from Mollem National Park.',
@@ -58,7 +58,7 @@ export const cityData = {
       {
         id: 'basilica-of-bom-jesus',
         name: 'Basilica of Bom Jesus',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df 14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/26/91/0b/26910bbd42cc461c0bb4229faf6a6030.jpg',
         description: 'UNESCO World Heritage Site and one of the oldest churches in India',
         timings: '9:00 AM to 6:30 PM',
         howToReach: 'Located in Old Goa, accessible by taxi or local transport.',
@@ -69,7 +69,7 @@ export const cityData = {
       {
         id: 'fish-curry-rice',
         name: 'Fish Curry Rice',
-        image: 'https://images.unsplash.com/photo-1598198652224-1f080e63076b?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/0a/ad/41/0aad41c0bf5348eedad2cd453ee58f7d.jpg',
         description: 'Traditional Goan curry with local fish',
         restaurants: [
           { 
@@ -119,7 +119,7 @@ export const cityData = {
       {
         id: 'xacuti',
         name: 'Chicken Xacuti',
-        image: 'https://images.unsplash.com/photo-1589793907316-f94025b46850?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/736x/cc/a5/8d/cca58d2687f6b10e79664a07dda9301e.jpg',
         description: 'Complex curry made with roasted spices and coconut',
         restaurants: [
           {
@@ -169,7 +169,7 @@ export const cityData = {
       {
         id: 'bebinca',
         name: 'Bebinca',
-        image: 'https://images.unsplash.com/photo-1598890777032-bde835ba27c2?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/e4/80/c7/e480c71d1fa3142aca634e5347c615c2.jpg',
         description: 'Traditional Goan layered dessert',
         restaurants: [
           {
@@ -221,7 +221,7 @@ export const cityData = {
       {
         id: 'water-sports',
         name: 'Water Sports',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/2f/f5/b0/2ff5b0cf680dd1bd05f68145d5660b46.jpg',
         description: 'Parasailing, jet skiing, and banana boat rides',
         providers: [
           {
@@ -236,7 +236,7 @@ export const cityData = {
       {
         id: 'scuba-diving',
         name: 'Scuba Diving',
-        image: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/3c/c0/68/3cc06805b9d29e63dba7543642444ca6.jpg',
         description: 'Explore underwater marine life',
         providers: [
           {
@@ -251,7 +251,7 @@ export const cityData = {
       {
         id: 'casino',
         name: 'Casino Experience',
-        image: 'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/8b/4e/50/8b4e5057c509dd28c133df6823a90aa7.jpg',
         description: 'Floating casinos with gaming and entertainment',
         venues: [
           {
@@ -273,14 +273,14 @@ export const cityData = {
     id: 'shimla',
     name: 'Shimla',
     description: 'The summer capital of India, known for its colonial architecture and scenic views',
-    coverImage: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=1000',
+    coverImage: 'https://i.pinimg.com/564x/36/d8/74/36d874809e17991213e45b57645f91fd.jpg',
     bestTimeToVisit: 'March to June for pleasant weather, December to February for snow',
     howToReach: 'Shimla Airport or Kalka Railway Station',
     places: [
       {
         id: 'mall-road',
         name: 'Mall Road',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/15/b5/f7/15b5f757e7db7431379ac00514a81eef.jpg',
         description: 'The main street lined with shops and eateries',
         timings: 'Open 24 hours',
         history: 'Developed during the British era, it remains a popular tourist spot.',
@@ -290,7 +290,7 @@ export const cityData = {
       {
         id: 'jakhoo-temple',
         name: 'Jakhoo Temple',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/736x/fe/84/64/fe8464dc9bbd7b6c944279ceb3e3cbeb.jpg',
         description: 'An ancient temple dedicated to Lord Hanuman',
         timings: '6:00 AM to 8:00 PM',
         history: 'Believed to be the highest point in Shimla, it offers panoramic views.',
@@ -300,7 +300,7 @@ export const cityData = {
       {
         id: 'ridge',
         name: 'The Ridge',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/0c/8b/a7/0c8ba7a386f38b9d32d29e74ecb0ee13.jpg',
         description: 'A large open space in the heart of Shimla, offering stunning views',
         timings: 'Open 24 hours',
         howToReach: 'Accessible by local transport or on foot.',
@@ -309,7 +309,7 @@ export const cityData = {
       {
         id: 'christ-church',
         name: 'Christ Church',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/736x/a0/1a/5f/a01a5f45b4f77c2d5361002c8d3ddb9c.jpg',
         description: 'The second oldest church in North India',
         timings: '6:00 AM to 8:00 PM',
         history: 'Built in 1857, it is known for its beautiful stained glass windows.',
@@ -319,7 +319,7 @@ export const cityData = {
       {
         id: 'kufri',
         name: 'Kufri',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/cf/34/5f/cf345fac131de65a385958f5e703db7f.jpg',
         description: 'A popular hill station near Shimla, known for its skiing and adventure activities',
         timings: 'Open 24 hours',
         howToReach: 'Accessible by taxi from Shimla (30 mins).',
@@ -330,7 +330,7 @@ export const cityData = {
       {
         id: 'chole-bhature',
         name: 'Chole Bhature',
-        image: 'https://images.unsplash.com/photo-1598198652224-1f080e63076b?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/736x/ad/df/10/addf10b34621f023f039e2d16c4665db.jpg',
         description: 'Spicy chickpeas served with deep-fried bread',
         restaurants: [
           {
@@ -380,7 +380,7 @@ export const cityData = {
       {
         id: 'momos',
         name: 'Momos',
-        image: 'https://images.unsplash.com/photo-1598198652224-1f080e63076b?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/e8/35/ed/e835ed89023c2a6d2d1933321d59efc4.jpg',
         description: 'Steamed dumplings filled with vegetables or meat',
         restaurants: [
           {
@@ -430,7 +430,7 @@ export const cityData = {
       {
         id: 'chocolate-cake',
         name: 'Chocolate Cake',
-        image: 'https://images.unsplash.com/photo-1598198652224-1f080e63076b?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/03/d4/b1/03d4b1563efdbd8325785d856f812bb9.jpg',
         description: 'Deliciously rich chocolate cake',
         restaurants: [
           {
@@ -482,7 +482,7 @@ export const cityData = {
       {
         id: 'snow-sports',
         name: 'Snow Sports',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/0f/ab/d9/0fabd993fa53e3b27846ec7f533636f1.jpg',
         description: 'Enjoy skiing and snowboarding in winter',
         providers: [
           {
@@ -504,14 +504,14 @@ export const cityData = {
     id: 'darjeeling',
     name: 'Darjeeling',
     description: 'Famous for its tea plantations and stunning views of the Himalayas',
-    coverImage: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=1000',
+    coverImage: 'https://i.pinimg.com/736x/28/9b/95/289b95a6b9f5e5c381e9bbd2bcf8bf0d.jpg',
     bestTimeToVisit: 'March to June and September to December',
     howToReach: 'Bagdogra Airport or New Jalpaiguri Railway Station',
     places: [
       {
         id: 'batasia-loop',
         name: 'Batasia Loop',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/63/99/55/6399555adb8f2bc71e1332a04778cf62.jpg',
         description: 'A spiral railway track with a beautiful garden',
         timings: 'Open 24 hours',
         history: 'Constructed to help the toy train navigate the steep gradient.',
@@ -521,7 +521,7 @@ export const cityData = {
       {
         id: 'tea-gardens',
         name: 'Tea Gardens',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/9b/85/41/9b8541c721649fc3b6836138c891a605.jpg',
         description: 'Famous for its lush green tea plantations',
         timings: '8:00 AM to 5:00 PM',
         history: 'Darjeeling tea is renowned worldwide for its unique flavor and aroma.',
@@ -531,7 +531,7 @@ export const cityData = {
       {
         id: 'darjeeling-himalayan-railway',
         name: 'Darjeeling Himalayan Railway',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/af/6c/ea/af6cea466375b4f1bab5409bd0332a79.jpg',
         description: 'A UNESCO World Heritage Site, famous for its scenic train ride',
         timings: 'Timings vary, check local schedules',
         howToReach: 'Board from Darjeeling Railway Station.',
@@ -540,7 +540,7 @@ export const cityData = {
       {
         id: 'observatory-hill',
         name: 'Observatory Hill',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/e4/ae/d7/e4aed7b00a42191429d1ce400f065b5a.jpg',
         description: 'Offers panoramic views of the Kanchenjunga range',
         timings: 'Open 24 hours',
         howToReach: 'Accessible by local transport or on foot.',
@@ -549,7 +549,7 @@ export const cityData = {
       {
         id: 'peace-pagoda',
         name: 'Peace Pagoda',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/8d/4e/fc/8d4efc41c0a46976df253b9108add9a7.jpg',
         description: 'A Buddhist stupa that promotes peace and harmony',
         timings: '6:00 AM to 7:00 PM',
         howToReach: 'Accessible by taxi or local transport.',
@@ -560,7 +560,7 @@ export const cityData = {
       {
         id: 'momos',
         name: 'Momos',
-        image: 'https://images.unsplash.com/photo-1598198652224-1f080e63076b?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/47/b3/7e/47b37e61b9d0bfae411344447f80167b.jpg',
         description: 'Steamed dumplings filled with vegetables or meat',
         restaurants: [
           {
@@ -610,7 +610,7 @@ export const cityData = {
       {
         id: 'darjeeling-tea',
         name: 'Darjeeling Tea',
-        image: 'https://images.unsplash.com/photo-1598198652224-1f080e63076b?auto=format&fit=crop&q=80&w=2000',
+        image: '	https://i.pinimg.com/564x/23/3b/3f/233b3faacd8d14ab28ccfd11137360d8.jpg',
         description: 'Famous tea known for its unique flavor and aroma',
         restaurants: [
           {
@@ -660,7 +660,7 @@ export const cityData = {
       {
         id: 'thukpa',
         name: 'Thukpa',
-        image: 'https://images.unsplash.com/photo-1598198652224-1f080e63076b?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/bc/e3/bc/bce3bc608b3341c5d8a3e4c125375f77.jpg',
         description: 'Noodle soup with vegetables or meat',
         restaurants: [
           {
@@ -712,7 +712,7 @@ export const cityData = {
       {
         id: 'toy-train-ride',
         name: 'Toy Train Ride',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/ed/9c/c8/ed9cc8a6ba685d157b419af7367606e6.jpg',
         description: 'Experience a scenic ride on the Darjeeling Himalayan Railway',
         providers: [
           {
@@ -734,14 +734,14 @@ export const cityData = {
     id: 'gangtok',
     name: 'Gangtok',
     description: 'The capital of Sikkim, known for its monasteries and views of Kanchenjunga',
-    coverImage: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=1000',
+    coverImage: 'Gangtok',
     bestTimeToVisit: 'March to June and September to December',
     howToReach: 'Bagdogra Airport or New Jalpaiguri Railway Station',
     places: [
       {
         id: 'tsomgo-lake',
         name: 'Tsomgo Lake',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/99/c7/82/99c782f002b5e92761c9bd35b63eb598.jpg',
         description: 'A glacial lake surrounded by snow-capped mountains',
         timings: 'Open 24 hours',
         history: 'A sacred lake for the local people, it is a popular tourist destination.',
@@ -751,7 +751,7 @@ export const cityData = {
       {
         id: 'rumtek-monastery',
         name: 'Rumtek Monastery',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/25/4e/c8/254ec8dfc3a39973c384f2b180d92cdf.jpg',
         description: 'One of the largest monasteries in Sikkim',
         timings: '6:00 AM to 6:00 PM',
         history: 'Built in the 1960s, it is a center of Tibetan Buddhism and a significant pilgrimage site.',
@@ -761,7 +761,7 @@ export const cityData = {
       {
         id: 'buddha-park',
         name: 'Buddha Park',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/8b/76/b7/8b76b71a167f1bf0ad79f03e941a6177.jpg',
         description: 'A beautiful park featuring a giant statue of Buddha',
         timings: 'Open 24 hours',
         howToReach: 'Accessible by taxi or local transport.',
@@ -770,7 +770,7 @@ export const cityData = {
       {
         id: 'mg-road',
         name: 'MG Road',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/1b/b6/59/1bb659d2931ebde7dde0113ceac5d3f0.jpg',
         description: 'The main street of Gangtok, lined with shops and eateries',
         timings: 'Open 24 hours',
         howToReach: 'Accessible by local transport or on foot.',
@@ -779,7 +779,7 @@ export const cityData = {
       {
         id: 'nathula-pass',
         name: 'Nathula Pass',
-        image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d1d1?auto=format&fit=crop&q=80&w=2000',
+        image: 'vhttps://i.pinimg.com/736x/9d/dd/84/9ddd84a035be0d03244f6e9756ac6edc.jpg',
         description: 'A mountain pass connecting India and Tibet',
         timings: 'Open 24 hours',
         howToReach: 'Accessible by taxi from Gangtok (permit required).',
@@ -790,7 +790,7 @@ export const cityData = {
       {
         id: 'thukpa',
         name: 'Thukpa',
-        image: 'https://images.unsplash.com/photo-1598198652224-1f080e63076b?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/0a/fc/ca/0afcca6bd3a21ed7b5fd18753dbe9e9b.jpg',
         description: 'Noodle soup with vegetables or meat',
         restaurants: [
           {
@@ -842,7 +842,7 @@ export const cityData = {
       {
         id: 'cable-car-ride',
         name: 'Cable Car Ride',
-        image: 'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?auto=format&fit=crop&q=80&w=2000',
+        image: 'https://i.pinimg.com/564x/af/8b/47/af8b47448bae272565e8d8aab79efe3a.jpg',
         description: 'Enjoy stunning views of the mountains and Gangtok',
         providers: [
           {
